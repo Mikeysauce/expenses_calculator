@@ -1,0 +1,10 @@
+button {
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 16px;
+  background: #44f5c7;
+  color: #262633;
+}
+button:hover, :focus {
+  cursor: pointer;
+}

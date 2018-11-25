@@ -1,0 +1,13 @@
+.field-group label {
+  width: 100%;
+  display: block;
+}
+.field-group input {
+  width: 100%;
+  border-radius: 4px;
+  padding: 3px;
+}
+
+.field-group {
+  padding: 0.5rem 0;
+}
